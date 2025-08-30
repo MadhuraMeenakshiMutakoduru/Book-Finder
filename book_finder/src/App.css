@@ -1,0 +1,32 @@
+/* General app layout */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+    
+}
+
+/* Title */
+h1 {
+  color:#FFF9AF;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+/* Error message */
+.error {
+  color: red;
+  margin-top: 10px;
+  font-size: 20px;
+ 
+  
+}
+
+/* Responsive grid for results */
+.results-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+  padding: 10px;
+}
