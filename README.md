@@ -28,7 +28,7 @@ This project demonstrates **React skills, responsive design, and API integration
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/Book-Finder.git
+git clone https://github.com/MadhuraMeenakshiMutakoduru/Book-Finder-Aganitha.git
 
 2.Navigate into the project folder:
 cd book_finder
@@ -45,7 +45,7 @@ http://localhost:5173
 Live Demo
 
 Try the live application here:
-book-finder-aganitha-eta.vercel.app
+https://book-finder-aganitha-eta.vercel.app/
 
 Notes / Known Issues
 
