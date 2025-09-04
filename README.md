@@ -45,7 +45,7 @@ http://localhost:5173
 Live Demo
 
 Try the live application here:
-https://book-finder-aganitha-eta.vercel.app/
+https://book-finder-khaki-two.vercel.app/
 
 Notes / Known Issues
 
