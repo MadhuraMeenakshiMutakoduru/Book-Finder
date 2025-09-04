@@ -28,7 +28,7 @@ This project demonstrates **React skills, responsive design, and API integration
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/MadhuraMeenakshiMutakoduru/Book-Finder-Aganitha.git
+git clone https://github.com/MadhuraMeenakshiMutakoduru/Book-Finder.git
 
 2.Navigate into the project folder:
 cd book_finder
